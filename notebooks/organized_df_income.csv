@@ -1,0 +1,281 @@
+Label,County,Value
+Total,Anderson County,"31,735"
+Total,Blount County,"55,446"
+Total,Bradley County,"43,025"
+Total,Davidson County,"316,273"
+Total,Greene County,"28,585"
+Total,Hamilton County,"151,676"
+Total,Knox County,"198,914"
+Total,Madison County,"39,730"
+Total,Maury County,"41,309"
+Total,Montgomery County,"84,145"
+Total,Putnam County,"33,652"
+Total,Robertson County,"27,233"
+Total,Rutherford County,"121,944"
+Total,Sevier County,"36,670"
+Total,Shelby County,"366,593"
+Total,Sullivan County,"68,804"
+Total,Sumner County,"77,760"
+Total,Washington County,"56,752"
+Total,Williamson County,"91,406"
+Total,Wilson County,"55,047"
+"Less than $10,000",Anderson County,8.8%
+"Less than $10,000",Blount County,3.5%
+"Less than $10,000",Bradley County,4.9%
+"Less than $10,000",Davidson County,6.9%
+"Less than $10,000",Greene County,5.7%
+"Less than $10,000",Hamilton County,6.4%
+"Less than $10,000",Knox County,5.9%
+"Less than $10,000",Madison County,6.9%
+"Less than $10,000",Maury County,5.0%
+"Less than $10,000",Montgomery County,5.0%
+"Less than $10,000",Putnam County,5.1%
+"Less than $10,000",Robertson County,1.8%
+"Less than $10,000",Rutherford County,3.9%
+"Less than $10,000",Sevier County,5.2%
+"Less than $10,000",Shelby County,9.1%
+"Less than $10,000",Sullivan County,7.8%
+"Less than $10,000",Sumner County,3.8%
+"Less than $10,000",Washington County,8.2%
+"Less than $10,000",Williamson County,1.6%
+"Less than $10,000",Wilson County,4.8%
+"$10,000 to $14,999",Anderson County,4.4%
+"$10,000 to $14,999",Blount County,4.1%
+"$10,000 to $14,999",Bradley County,5.2%
+"$10,000 to $14,999",Davidson County,2.8%
+"$10,000 to $14,999",Greene County,5.9%
+"$10,000 to $14,999",Hamilton County,4.7%
+"$10,000 to $14,999",Knox County,4.5%
+"$10,000 to $14,999",Madison County,8.4%
+"$10,000 to $14,999",Maury County,3.4%
+"$10,000 to $14,999",Montgomery County,2.4%
+"$10,000 to $14,999",Putnam County,4.7%
+"$10,000 to $14,999",Robertson County,6.2%
+"$10,000 to $14,999",Rutherford County,1.8%
+"$10,000 to $14,999",Sevier County,5.0%
+"$10,000 to $14,999",Shelby County,4.6%
+"$10,000 to $14,999",Sullivan County,5.2%
+"$10,000 to $14,999",Sumner County,2.1%
+"$10,000 to $14,999",Washington County,4.1%
+"$10,000 to $14,999",Williamson County,1.0%
+"$10,000 to $14,999",Wilson County,1.7%
+"$15,000 to $24,999",Anderson County,7.6%
+"$15,000 to $24,999",Blount County,6.7%
+"$15,000 to $24,999",Bradley County,8.2%
+"$15,000 to $24,999",Davidson County,6.8%
+"$15,000 to $24,999",Greene County,10.9%
+"$15,000 to $24,999",Hamilton County,7.9%
+"$15,000 to $24,999",Knox County,8.6%
+"$15,000 to $24,999",Madison County,9.0%
+"$15,000 to $24,999",Maury County,4.2%
+"$15,000 to $24,999",Montgomery County,6.5%
+"$15,000 to $24,999",Putnam County,12.5%
+"$15,000 to $24,999",Robertson County,6.5%
+"$15,000 to $24,999",Rutherford County,5.4%
+"$15,000 to $24,999",Sevier County,9.1%
+"$15,000 to $24,999",Shelby County,8.4%
+"$15,000 to $24,999",Sullivan County,14.4%
+"$15,000 to $24,999",Sumner County,6.9%
+"$15,000 to $24,999",Washington County,7.8%
+"$15,000 to $24,999",Williamson County,2.6%
+"$15,000 to $24,999",Wilson County,6.0%
+"$25,000 to $34,999",Anderson County,8.2%
+"$25,000 to $34,999",Blount County,9.4%
+"$25,000 to $34,999",Bradley County,11.7%
+"$25,000 to $34,999",Davidson County,8.6%
+"$25,000 to $34,999",Greene County,7.1%
+"$25,000 to $34,999",Hamilton County,8.9%
+"$25,000 to $34,999",Knox County,9.1%
+"$25,000 to $34,999",Madison County,8.7%
+"$25,000 to $34,999",Maury County,5.9%
+"$25,000 to $34,999",Montgomery County,8.4%
+"$25,000 to $34,999",Putnam County,10.9%
+"$25,000 to $34,999",Robertson County,12.3%
+"$25,000 to $34,999",Rutherford County,4.7%
+"$25,000 to $34,999",Sevier County,13.3%
+"$25,000 to $34,999",Shelby County,9.5%
+"$25,000 to $34,999",Sullivan County,10.6%
+"$25,000 to $34,999",Sumner County,9.8%
+"$25,000 to $34,999",Washington County,9.4%
+"$25,000 to $34,999",Williamson County,3.5%
+"$25,000 to $34,999",Wilson County,4.8%
+"$35,000 to $49,999",Anderson County,14.9%
+"$35,000 to $49,999",Blount County,14.8%
+"$35,000 to $49,999",Bradley County,15.0%
+"$35,000 to $49,999",Davidson County,12.0%
+"$35,000 to $49,999",Greene County,13.8%
+"$35,000 to $49,999",Hamilton County,11.2%
+"$35,000 to $49,999",Knox County,12.0%
+"$35,000 to $49,999",Madison County,13.6%
+"$35,000 to $49,999",Maury County,16.7%
+"$35,000 to $49,999",Montgomery County,15.4%
+"$35,000 to $49,999",Putnam County,12.9%
+"$35,000 to $49,999",Robertson County,11.3%
+"$35,000 to $49,999",Rutherford County,12.9%
+"$35,000 to $49,999",Sevier County,17.1%
+"$35,000 to $49,999",Shelby County,14.1%
+"$35,000 to $49,999",Sullivan County,13.2%
+"$35,000 to $49,999",Sumner County,12.6%
+"$35,000 to $49,999",Washington County,14.6%
+"$35,000 to $49,999",Williamson County,6.7%
+"$35,000 to $49,999",Wilson County,11.6%
+"$50,000 to $74,999",Anderson County,15.0%
+"$50,000 to $74,999",Blount County,22.0%
+"$50,000 to $74,999",Bradley County,17.6%
+"$50,000 to $74,999",Davidson County,19.3%
+"$50,000 to $74,999",Greene County,22.1%
+"$50,000 to $74,999",Hamilton County,16.0%
+"$50,000 to $74,999",Knox County,17.5%
+"$50,000 to $74,999",Madison County,19.8%
+"$50,000 to $74,999",Maury County,16.8%
+"$50,000 to $74,999",Montgomery County,20.8%
+"$50,000 to $74,999",Putnam County,17.6%
+"$50,000 to $74,999",Robertson County,16.8%
+"$50,000 to $74,999",Rutherford County,19.1%
+"$50,000 to $74,999",Sevier County,16.4%
+"$50,000 to $74,999",Shelby County,17.5%
+"$50,000 to $74,999",Sullivan County,15.9%
+"$50,000 to $74,999",Sumner County,18.3%
+"$50,000 to $74,999",Washington County,18.2%
+"$50,000 to $74,999",Williamson County,15.2%
+"$50,000 to $74,999",Wilson County,17.5%
+"$75,000 to $99,999",Anderson County,15.8%
+"$75,000 to $99,999",Blount County,12.6%
+"$75,000 to $99,999",Bradley County,14.0%
+"$75,000 to $99,999",Davidson County,12.4%
+"$75,000 to $99,999",Greene County,12.6%
+"$75,000 to $99,999",Hamilton County,14.7%
+"$75,000 to $99,999",Knox County,12.4%
+"$75,000 to $99,999",Madison County,9.6%
+"$75,000 to $99,999",Maury County,16.4%
+"$75,000 to $99,999",Montgomery County,17.9%
+"$75,000 to $99,999",Putnam County,12.9%
+"$75,000 to $99,999",Robertson County,16.6%
+"$75,000 to $99,999",Rutherford County,17.5%
+"$75,000 to $99,999",Sevier County,11.9%
+"$75,000 to $99,999",Shelby County,10.4%
+"$75,000 to $99,999",Sullivan County,11.5%
+"$75,000 to $99,999",Sumner County,13.6%
+"$75,000 to $99,999",Washington County,12.9%
+"$75,000 to $99,999",Williamson County,12.7%
+"$75,000 to $99,999",Wilson County,12.3%
+"$100,000 to $149,999",Anderson County,15.3%
+"$100,000 to $149,999",Blount County,18.9%
+"$100,000 to $149,999",Bradley County,16.1%
+"$100,000 to $149,999",Davidson County,14.4%
+"$100,000 to $149,999",Greene County,13.4%
+"$100,000 to $149,999",Hamilton County,16.5%
+"$100,000 to $149,999",Knox County,14.7%
+"$100,000 to $149,999",Madison County,14.9%
+"$100,000 to $149,999",Maury County,15.8%
+"$100,000 to $149,999",Montgomery County,13.8%
+"$100,000 to $149,999",Putnam County,12.5%
+"$100,000 to $149,999",Robertson County,17.2%
+"$100,000 to $149,999",Rutherford County,19.8%
+"$100,000 to $149,999",Sevier County,12.6%
+"$100,000 to $149,999",Shelby County,13.2%
+"$100,000 to $149,999",Sullivan County,11.7%
+"$100,000 to $149,999",Sumner County,19.7%
+"$100,000 to $149,999",Washington County,11.5%
+"$100,000 to $149,999",Williamson County,16.1%
+"$100,000 to $149,999",Wilson County,21.9%
+"$150,000 to $199,999",Anderson County,6.3%
+"$150,000 to $199,999",Blount County,3.5%
+"$150,000 to $199,999",Bradley County,2.9%
+"$150,000 to $199,999",Davidson County,7.1%
+"$150,000 to $199,999",Greene County,4.2%
+"$150,000 to $199,999",Hamilton County,5.9%
+"$150,000 to $199,999",Knox County,7.7%
+"$150,000 to $199,999",Madison County,5.5%
+"$150,000 to $199,999",Maury County,7.2%
+"$150,000 to $199,999",Montgomery County,6.0%
+"$150,000 to $199,999",Putnam County,6.8%
+"$150,000 to $199,999",Robertson County,6.8%
+"$150,000 to $199,999",Rutherford County,8.9%
+"$150,000 to $199,999",Sevier County,5.8%
+"$150,000 to $199,999",Shelby County,6.1%
+"$150,000 to $199,999",Sullivan County,3.3%
+"$150,000 to $199,999",Sumner County,7.0%
+"$150,000 to $199,999",Washington County,6.8%
+"$150,000 to $199,999",Williamson County,14.3%
+"$150,000 to $199,999",Wilson County,10.0%
+"$200,000 or more",Anderson County,3.8%
+"$200,000 or more",Blount County,4.4%
+"$200,000 or more",Bradley County,4.5%
+"$200,000 or more",Davidson County,9.6%
+"$200,000 or more",Greene County,4.3%
+"$200,000 or more",Hamilton County,7.9%
+"$200,000 or more",Knox County,7.5%
+"$200,000 or more",Madison County,3.7%
+"$200,000 or more",Maury County,8.4%
+"$200,000 or more",Montgomery County,4.0%
+"$200,000 or more",Putnam County,4.1%
+"$200,000 or more",Robertson County,4.4%
+"$200,000 or more",Rutherford County,6.1%
+"$200,000 or more",Sevier County,3.6%
+"$200,000 or more",Shelby County,7.2%
+"$200,000 or more",Sullivan County,6.4%
+"$200,000 or more",Sumner County,6.3%
+"$200,000 or more",Washington County,6.4%
+"$200,000 or more",Williamson County,26.2%
+"$200,000 or more",Wilson County,9.4%
+Median income (dollars),Anderson County,"60,364"
+Median income (dollars),Blount County,"62,102"
+Median income (dollars),Bradley County,"56,139"
+Median income (dollars),Davidson County,"65,348"
+Median income (dollars),Greene County,"56,488"
+Median income (dollars),Hamilton County,"66,096"
+Median income (dollars),Knox County,"64,894"
+Median income (dollars),Madison County,"53,720"
+Median income (dollars),Maury County,"68,840"
+Median income (dollars),Montgomery County,"63,331"
+Median income (dollars),Putnam County,"52,278"
+Median income (dollars),Robertson County,"65,139"
+Median income (dollars),Rutherford County,"78,201"
+Median income (dollars),Sevier County,"50,239"
+Median income (dollars),Shelby County,"54,841"
+Median income (dollars),Sullivan County,"48,063"
+Median income (dollars),Sumner County,"70,092"
+Median income (dollars),Washington County,"56,009"
+Median income (dollars),Williamson County,"117,927"
+Median income (dollars),Wilson County,"80,960"
+Mean income (dollars),Anderson County,"75,147"
+Mean income (dollars),Blount County,"82,281"
+Mean income (dollars),Bradley County,"75,661"
+Mean income (dollars),Davidson County,"99,415"
+Mean income (dollars),Greene County,"73,551"
+Mean income (dollars),Hamilton County,"93,224"
+Mean income (dollars),Knox County,"88,924"
+Mean income (dollars),Madison County,"74,113"
+Mean income (dollars),Maury County,"97,122"
+Mean income (dollars),Montgomery County,"78,121"
+Mean income (dollars),Putnam County,"71,272"
+Mean income (dollars),Robertson County,"83,770"
+Mean income (dollars),Rutherford County,"94,724"
+Mean income (dollars),Sevier County,"72,069"
+Mean income (dollars),Shelby County,"84,590"
+Mean income (dollars),Sullivan County,"75,064"
+Mean income (dollars),Sumner County,"91,790"
+Mean income (dollars),Washington County,"83,489"
+Mean income (dollars),Williamson County,"160,511"
+Mean income (dollars),Wilson County,"99,591"
+Household income in the past 12 months,Anderson County,41.9%
+Household income in the past 12 months,Blount County,33.8%
+Household income in the past 12 months,Bradley County,43.5%
+Household income in the past 12 months,Davidson County,42.2%
+Household income in the past 12 months,Greene County,49.8%
+Household income in the past 12 months,Hamilton County,39.3%
+Household income in the past 12 months,Knox County,31.5%
+Household income in the past 12 months,Madison County,42.1%
+Household income in the past 12 months,Maury County,48.7%
+Household income in the past 12 months,Montgomery County,42.0%
+Household income in the past 12 months,Putnam County,37.0%
+Household income in the past 12 months,Robertson County,33.5%
+Household income in the past 12 months,Rutherford County,37.1%
+Household income in the past 12 months,Sevier County,41.3%
+Household income in the past 12 months,Shelby County,45.1%
+Household income in the past 12 months,Sullivan County,35.4%
+Household income in the past 12 months,Sumner County,35.1%
+Household income in the past 12 months,Washington County,40.2%
+Household income in the past 12 months,Williamson County,35.3%
+Household income in the past 12 months,Wilson County,33.6%
